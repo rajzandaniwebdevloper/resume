@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brutalist Resume Design">
+    <meta name="author" content="Raj Zandani">
+    <title>Raj Zandani's Resume</title>
+
+    <style>
+        body {
+            margin: 20px;
+            padding: 20px;
+            background-color: #262626;
+            color: #fff;
+            font-family: 'Courier New', Courier, monospace;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        h1, h2, h3 {
+            color: #ff9900;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: #ff9900;
+            color: #333;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Raj Zandani</h1>
+        <p>Vasant Wadi Main Road, Khamgaon<br>
+            Khamgaon, Maharashtra, 444303<br>
+            Email: [Your Email Address] | Phone: [Your Phone Number]<br>
+            LinkedIn: [Your LinkedIn Profile URL]</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Professional Summary</h2>
+            <p>Versatile and results-driven professional with a comprehensive skill set spanning IT & Software, Data Science, Artificial Intelligence, Machine Learning, Digital Marketing, ChatGPT and Generative AI, Management, Cyber Security, Study Abroad, Cloud Computing, Big Data, Sales and Business Development, Interview Preparation, and UI/UX Design. Proven track record of successfully leading and contributing to projects across diverse domains. Adept at combining technical expertise with effective communication and strategic problem-solving.</p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <p>[Your University] - Bachelor of Science in [Your Major]<br>
+                Graduation Date: [Month, Year]</p>
+        </section>
+
+        <section>
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Programming Languages: Python, Java, JavaScript</li>
+                <li>Data Science: Pandas, NumPy, Scikit-Learn, Matplotlib</li>
+                <li>Machine Learning: TensorFlow, PyTorch, Scikit-Learn</li>
+                <li>AI and Generative Models: ChatGPT, OpenAI GPT-3, Seq2Seq</li>
+                <li>Web Development: HTML, CSS, React</li>
+                <li>Cyber Security: Network Security, Encryption, Incident Response</li>
+                <li>Cloud Computing: AWS, Azure, Google Cloud</li>
+                <li>Big Data Technologies: Hadoop, Spark</li>
+                <li>Digital Marketing: SEO, SEM, Social Media Campaigns</li>
+                <li>Management: Project Management, Team Leadership</li>
+                <li>Sales and Business Development: Client Relationship Management, Sales Strategies</li>
+                <li>UI/UX Design: Adobe XD, Sketch, Figma</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Professional Experience</h2>
+            <p>[Previous Company] - Software Engineer<br>
+                Dates of Employment</p>
+            <ul>
+                <li>Collaborated with cross-functional teams to design and implement scalable software solutions, resulting in a 30% increase in system efficiency.</li>
+                <li>Led the development of machine learning models for predictive analytics, improving accuracy by 25%.</li>
+                <li>Implemented cybersecurity measures, reducing the risk of data breaches by 20%.</li>
+            </ul>
+
+            <p>[Digital Marketing Agency] - Digital Marketing Specialist<br>
+                Dates of Employment</p>
+            <ul>
+                <li>Developed and executed digital marketing strategies, leading to a 40% increase in online engagement.</li>
+                <li>Conducted market research to identify target audiences and optimize digital advertising campaigns.</li>
+                <li>Utilized AI-powered chatbots to enhance user interaction and customer support.</li>
+            </ul>
+
+            <p>[IT Consulting Firm] - Cyber Security Analyst<br>
+                Dates of Employment</p>
+            <ul>
+                <li>Conducted vulnerability assessments and implemented security measures, ensuring compliance with industry standards.</li>
+                <li>Led incident response efforts, minimizing the impact of security incidents on business operations.</li>
+                <li>Provided cybersecurity training to employees, enhancing organizational awareness.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <p>[Project Name] - Study Abroad Platform<br>
+                Description of the project, technologies used, and your role.</p>
+
+            <p>[Project Name] - Cloud-Based Sales Dashboard<br>
+                Description of the project, technologies used, and your role.</p>
+        </section>
+
+        <section>
+            <h2>Certifications</h2>
+            <ul>
+                <li>Certified Information Systems Security Professional (CISSP)</li>
+                <li>AWS Certified Solutions Architect</li>
+                <li>Google Cloud Certified - Professional Data Engineer</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Additional Skills</h2>
+            <ul>
+                <li>Strong analytical and problem-solving abilities.</li>
+                <li>Excellent communication and interpersonal skills.</li>
+                <li>Proven ability to adapt to new technologies and learn quickly.</li>
+                <li>Project management and organizational skills.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Languages</h2>
+            <p>Fluent in English (TOEFL Score: [Your Score])<br>
+                [Additional Language Proficiency, if applicable]</p>
+        </section>
+
+        <section>
+            <h2>References</h2>
+            <p>Available upon request.</p>
+        </section>
+    </main>
+
+    <script>
+        // You can add JavaScript functionality if needed
+    </script>
+
+</body>
+
+</html>
